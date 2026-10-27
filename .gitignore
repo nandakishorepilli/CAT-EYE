@@ -1,0 +1,49 @@
+# Binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts & intermediate files
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.res
+*.pch
+
+# Build / Output directories
+bin/
+obj/
+out/
+build/
+x64/
+x86/
+Debug/
+Release/
+
+# IDE and Editor files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Environment and secrets
+*.env
+*.env.*
+*.key
+*.pem
+*.cert
